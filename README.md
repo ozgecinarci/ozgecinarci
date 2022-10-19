@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozgecinarci
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning full-stack web development
+- 🌱 I’m currently learning web development
 - 📫 How to reach me linkedin.com/in/ozgecinarci
 
 <!---
