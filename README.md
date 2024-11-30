@@ -13,6 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgecinarci&show_icons=true&locale=en&layout=compact" alt="ozgecinarci" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgecinarci&" alt="ozgecinarci" /></p>
+
+  
+  <p style="width: 48%; height: 350px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgecinarci&show_icons=true&locale=en&layout=compact" alt="ozgecinarci" style="width: 100%; height: 100%; object-fit: contain;" />
+  </p>
+
+  <p style="width: 48%; height: 350px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozgecinarci&" alt="ozgecinarci" style="width: 100%; height: 100%; object-fit: contain;" />
+  </p>
+
 </div>
