@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.s
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgecinarci&show_icons=true&locale=en&layout=compact" alt="ozgecinarci" /></p>
   <br>
+  <br>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ozgecinarci&" alt="ozgecinarci" /></p>
