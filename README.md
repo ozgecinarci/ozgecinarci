@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://medium.com/@cinarciozge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cinarciozge" height="30" width="40" /></a>
 </p>
 
-
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozgecinarci&show_icons=true&locale=en&layout=compact" alt="ozgecinarci" /></p>
 
